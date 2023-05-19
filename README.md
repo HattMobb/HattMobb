@@ -10,5 +10,5 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[tryhackme]: https://tryhackme.com/p/Frostbyyte
-[linkedin]: https://www.linkedin.com/in/mhobbs01/
+tryhackme: https://tryhackme.com/p/Frostbyyte
+linkedin: https://www.linkedin.com/in/mhobbs01/
