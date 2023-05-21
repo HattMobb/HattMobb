@@ -7,7 +7,7 @@
 - <b>1000 user Active Directory lab</b>
   - ![AD-lab](https://github.com/HattMobb/1000-User-Active-Directory-Lab) 
 - <b>Self-hosted password vault using Docker</b>
-  - ![AD-lab](https://github.com/HattMobb/Self-Hosted-Password-Vault)
+  - ![Vault](https://github.com/HattMobb/Self-Hosted-Password-Vault)
 
 
 <h2> 🤳 Connect with me:</h2>
