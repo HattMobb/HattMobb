@@ -3,9 +3,11 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Vulnerable Virtual Machine Attack Threat Map </b>
-  - [@@@@](https://insert here)
+  - ![@@@@](https://insert here)
 - <b>1000 user Active Directory lab</b>
-  - [@@@@](https://github.com/) 
+  - ![AD-lab](https://github.com/HattMobb/1000-User-Active-Directory-Lab) 
+- <b>Self-hosted password vault using Docker</b>
+  - ![AD-lab](https://github.com/HattMobb/Self-Hosted-Password-Vault)
 
 
 <h2> 🤳 Connect with me:</h2>
