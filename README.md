@@ -9,7 +9,7 @@
 - <b>Using an Azure virtual machine to host a honeypot</b>
   - ![Honeypot](https://github.com/HattMobb/Azure-Honeypot)
 - <b>Virtual Machine Attack Threat Map </b>
-  - 
+  - ![Threat Map](https://github.com/HattMobb/Virtual-Machine-Threat-Map)
 
 
 <h2> 🤳 Connect with me:</h2>
