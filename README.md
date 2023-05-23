@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- <b>Black box penetration test</b>
+  - ![Pen test write-up](https://github.com/HattMobb/TryHackMe-Bugle-Machine-Writeup-Walkthrough)
 - <b>1000 user Active Directory lab</b>
   - ![AD-lab](https://github.com/HattMobb/1000-User-Active-Directory-Lab) 
 - <b>Self-hosted password vault using Docker</b>
