@@ -1,7 +1,10 @@
 <h1>Hi, I'm Matt, avid ethical hacker and aspiring security professional.
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
+  Below, you can find a collection of various labs, projects and hacking CTF write-ups.
 
+  
+  
 - <b>Black box penetration test</b>
   - ![Pen test write-up](https://github.com/HattMobb/TryHackMe-Bugle-Machine-Writeup-Walkthrough)
 - <b>Virtual Machine Attack Threat Map </b>
