@@ -9,6 +9,8 @@
   - ![Pen test write-up](https://github.com/HattMobb/TryHackMe-Bugle-Machine-Writeup-Walkthrough)
 - <b>Virtual Machine Attack Threat Map </b>
   - ![Threat Map](https://github.com/HattMobb/Virtual-Machine-Threat-Map)
+- <b>Using Snort's IDS/IPS capabilities to halt live attacks </b>
+  - ![Snort lab](https://github.com/HattMobb/Defending-live-attacks-with-SNORT/blob/main/README.md)
 - <b>1000 user Active Directory lab</b>
   - ![AD-lab](https://github.com/HattMobb/1000-User-Active-Directory-Lab) 
 - <b>Self-hosted password vault using Docker</b>
