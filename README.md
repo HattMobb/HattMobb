@@ -8,7 +8,7 @@
 - <b>🖥️ Black box penetration test</b>
   - ![Pen test write-up](https://github.com/HattMobb/TryHackMe-Bugle-Machine-Writeup-Walkthrough)
 - <b>🖥️ TryHackMe Relevant machine CTF</b>
-  - ![Relevant write-up](https://github.com/HattMobb/TryHackMe-Relevant-Machine-Writeup-Walkthrough)
+  - ![Relevant walkthrough](https://github.com/HattMobb/TryHackMe-Relevant-Machine-Writeup-Walkthrough)
 - <b>🗺️ Virtual Machine Attack Threat Map </b>
   - ![Threat Map](https://github.com/HattMobb/Virtual-Machine-Threat-Map)
 - <b>🐷  Using Snort's IDS/IPS capabilities to halt live attacks </b>
