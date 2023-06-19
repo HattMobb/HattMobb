@@ -7,6 +7,8 @@
   
 - <b>🖥️ Black box penetration test</b>
   - ![Pen test write-up](https://github.com/HattMobb/TryHackMe-Bugle-Machine-Writeup-Walkthrough)
+- <b>🖥 Network penetration test</b>
+  - ![Wreath Report](https://github.com/HattMobb/Wreath-Network-Pen-Test/blob/main/README.md)
 - <b>🖥️ TryHackMe Relevant machine CTF</b>
   - ![Relevant walkthrough](https://github.com/HattMobb/TryHackMe-Relevant-Machine-Writeup-Walkthrough)
 - <b>🗺️ Virtual Machine Attack Threat Map </b>
