@@ -15,7 +15,7 @@
   - ![Threat Map](https://github.com/HattMobb/Virtual-Machine-Threat-Map)
 - <b>🐷 Using Snort's IDS/IPS capabilities to halt live attacks </b>
   - ![Snort lab](https://github.com/HattMobb/Defending-live-attacks-with-SNORT/blob/main/README.md)
-- <b>🔎 Using Splunk to halt investigate suspicious logs </b>
+- <b>🔎 Using Splunk to investigate suspicious logs </b>
   - ![Splunk investigation](https://github.com/HattMobb/Splunk-suspicious-process-execution)
 - <b>📂 1000 user Active Directory lab</b>
   - ![AD-lab](https://github.com/HattMobb/1000-User-Active-Directory-Lab) 
