@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matt, avid ethical hacker and aspiring security professional.
+<h1>Hi, I'm Matt, a cloud and security focused IT Specialist.
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
   Below, you can find a collection of various labs, projects and hacking CTF write-ups.
